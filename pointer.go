@@ -2,6 +2,8 @@
  * Pointer sample
  *
  * Passing parameter by using pointer.
+ * ポインタの扱い方はCと同じ。
+ * &がポインタを得る為のプレフィックスで、格納先が*付きの変数
  *
  */
 package main
